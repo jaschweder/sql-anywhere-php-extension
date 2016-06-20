@@ -1,4 +1,4 @@
-## SQL Anywhere &copy; PHP extension
+## PHP 5.6 Sybase SQL Anywhere &copy; extension
 
 ### Building this extension
 
