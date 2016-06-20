@@ -1,3 +1,4 @@
+# phpize generated files
 Makefile.global
 acinclude.m4
 aclocal.m4
@@ -13,3 +14,20 @@ ltmain.sh
 missing
 mkinstalldirs
 run-tests.php
+
+# ./configre generated files
+.deps
+.libs/*
+Makefile
+Makefile.fragments
+Makefile.objects
+config.h
+config.log
+config.nice
+config.status
+libtool
+modules/*
+sacapidll.lo
+sqlany_dbg.lo
+sqlanywhere.la
+sqlanywhere.lo
