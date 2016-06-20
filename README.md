@@ -1,6 +1,6 @@
-SQL Anywhere &copy; PHP extension
+## SQL Anywhere &copy; PHP extension
 
-## Building this extension
+### Building this extension
 
 ```
 // clone and go to the cloned folder
@@ -20,6 +20,6 @@ make -j$(($(nproc)+1))
 sudo make install
 ```
 
-## License
+### License
 
-see [license](https://github.com/jaschweder/sql-anywhere-php-extension/blob/master/license.txt) file
+see [license](https://github.com/jaschweder/sql-anywhere-php-extension/blob/master/license.txt)
