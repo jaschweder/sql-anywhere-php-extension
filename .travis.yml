@@ -1,0 +1,7 @@
+language: php
+
+script:
+  - phpize
+  - ./configure
+  - make -j$(($(nproc)+1))
+  - make test
