@@ -1,4 +1,4 @@
-## PHP 5.6 Sybase SQL Anywhere &copy; extension
+## PHP Sybase SQL Anywhere &copy; extension
 
 [![Build Status](https://travis-ci.org/jaschweder/sql-anywhere-php-extension.svg?branch=master)](https://travis-ci.org/jaschweder/sql-anywhere-php-extension)
 
