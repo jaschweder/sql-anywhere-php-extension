@@ -5,8 +5,8 @@
 ### Building this extension
 
 ```
-git clone git://github.com/jaschweder/sql-anywhere-php-extension
-cd sql-anywhere-php-extension
+git clone https://github.com/jaschweder/sqlanywhere-php-extension
+cd sqlanywhere-php-extension
 phpize
 ./configure
 make
