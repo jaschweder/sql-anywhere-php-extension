@@ -9,7 +9,7 @@ git clone git://github.com/jaschweder/sql-anywhere-php-extension
 cd sql-anywhere-php-extension
 phpize
 ./configure
-make -j$(($(nproc)+1))
+make
 sudo make install
 ```
 
