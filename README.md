@@ -1,6 +1,6 @@
 ## PHP Sybase SQL Anywhere &copy; extension
 
-[![Build Status](https://travis-ci.org/jaschweder/sql-anywhere-php-extension.svg?branch=master)](https://travis-ci.org/jaschweder/sql-anywhere-php-extension)
+[![Build Status](https://travis-ci.org/jaschweder/sqlanywhere-php-extension.svg?branch=master)](https://travis-ci.org/jaschweder/sqlanywhere-php-extension)
 
 ### Building this extension
 
